@@ -10,4 +10,10 @@ public class Loginpage
 	{
 		
 	}
+	
+	@Test
+	public void tearDown()
+	{
+		
+	}
 }
